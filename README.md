@@ -33,10 +33,6 @@ Alternatively, and if you do not want to build a PCB by yourself and like to buy
 The price starts at 30eur plus postage fees.
 (I will also deliver the assembled PCB with all the components in place at a fair aditonal cost).
 
-## Nextion LCDs
-If you like this , but on another NEXTION LCD TOUCH, drop me a DM on whatsApp [here](https://chat.whatsapp.com/FkNC7u83kuy2QRA5sqjBVg) and i will do for free the KiCad design for you.
-
-
 #### Be supportive of my dedication and work towards technology education and buy me a coffee. Link below.
 
 ![](https://github.com/aeonSolutions/AeonLabs-LDAD-for-Legrand-Plexo/blob/main/designs/pcb_front.png)
