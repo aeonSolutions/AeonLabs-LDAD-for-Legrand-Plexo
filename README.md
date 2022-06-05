@@ -16,11 +16,7 @@ Simple and compatible with existing tools and technologies. Can't get better tha
 - revision 1.0
   
 ## Download options
-Download this repository if you need the KiCad Files
-
-Or,
-
-Download the Gerber files in the release section of this repository
+Download this repository if you need the KiCad Files or, download the Gerber files in the release section of this repository
 
 ## Liked it ? Get a Free PCB for yourself
 Send me your Device or hardware and i will design a custom PCB for it. Free of charge. Contact-me on WhatsApp or email for more info. 
