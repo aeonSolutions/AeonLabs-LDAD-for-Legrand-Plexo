@@ -13,7 +13,8 @@ Simple and compatible with existing tools and technologies. Can't get better tha
 ![](https://img.shields.io/github/downloads/aeonSolutions/AeonLabs-LDAD-for-Legrand-Plexo/total?style=for-the-badge)
 
 ## Revisions
-- revision 1.0
+- revision 1.1
+   - added 220V AC Fuse 
   
 ## Download options
 Download this repository if you need the KiCad Files or, download the Gerber files in the release section of this repository
