@@ -1,7 +1,11 @@
 # AeonLabs LDAD for Legrand Plexo
-This repo contains the KiCad files for the LDAD Essentials features up to 6 Temperature Sensors has WIFI and BLE connectivity and is powered by a 4.2v Lipo Battery.
-This PCB was made to Fit a [Legrand Aftakdoos Leeq](https://www.google.com/search?q=Legrand+Aftakdoos+leeq&newwindow=1&client=opera&sxsrf=APq-WBudoCNXlyJkT8RVjwlvQol-xiGYpA%3A1650729585719&ei=cSJkYqmqK_GAi-gPo-ey4AQ&ved=0ahUKEwjpps70xqr3AhVxwAIHHaOzDEwQ4dUDCA0&uact=5&oq=Legrand+Aftakdoos+leeq&gs_lcp=Cgdnd3Mtd2l6EAMyBQghEKABMgUIIRCgATIFCCEQoAE6BwgAEEcQsAM6BggAEBYQHkoECEEYAEoECEYYAFDhBViiD2DMEGgBcAF4AIABpgGIAfkDkgEDMC40mAEAoAEByAEIwAEB&sclient=gws-wiz) 89x43mm waterproof enclosure.
+ #LDAD PCB for a direct fit on [Legrand Plexo](https://www.legrand.com/ecatalogue/RESIDENTIAL-BUILDINGS-AND-HOTEL-EQUIPMENT/weatherproof-wiring-accessories-and-other-installation-equipment:5/weatherproof-wiring-accessories-and-boxes:1/plexo-boxes-ip-55-ik-07-with-direct-entry-membrane-glands-650-c:12/square-boxes:2/65-x-) Junction Box with 65x65x40xmm.
 
+Features WIFI, BLE & Bluetooth 5.x connectivity and can connect up to 10 sensors. This PCB is powered with any 220V AC line. If wireless is not possible this PCB is able to connect to a Home #CanBus network for data transmission and receive up to 1Mbit/s.
+
+The perfect #PCB for managing construction site works since early construction stages, while, for instance, concreting structural elements. Later on can be left and integrated with any home automation system for active structural and environmental monitoring.
+
+Simple and compatible with existing tools and technologies. Can't get better than this !!! 
 
 *Don't forget to LIKE , SHARE and subscribe the free whatsApp group* and if you liked this PCB consider buying me a cup of coffee. Links below.
 
