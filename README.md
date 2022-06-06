@@ -1,7 +1,7 @@
 # AeonLabs LDAD for Legrand Plexo
  #LDAD PCB for a direct fit on [Legrand Plexo](https://www.legrand.com/ecatalogue/RESIDENTIAL-BUILDINGS-AND-HOTEL-EQUIPMENT/weatherproof-wiring-accessories-and-other-installation-equipment:5/weatherproof-wiring-accessories-and-boxes:1/plexo-boxes-ip-55-ik-07-with-direct-entry-membrane-glands-650-c:12/square-boxes:2/65-x-) Junction Box with 65x65x40xmm.
 
-Features WIFI, BLE & Bluetooth 5.x connectivity and can connect up to 10 sensors. This PCB is powered with any 220V AC line. If wireless is not possible this PCB is able to connect, this new LDAD for Legrand , has already built in CANBUS Network connectivity compatible with ISO 11898-2 for data transmission (and receive) up to 1Mbit/s. Ready to deploy using [Home Assistant](https://www.home-assistant.io/) tools! 
+Features WIFI, BLE & Bluetooth 5.x connectivity and can connect up to 10 sensors. This PCB is powered with any 220V AC line. This new LDAD for Legrand , has already built in CANBUS Network connectivity compatible with ISO 11898-2 for data transmission (and receive) up to 1Mbit/s. Ready to deploy using [Home Assistant](https://www.home-assistant.io/) tools! 
 
 The perfect #PCB for managing construction site works since early construction stages, while, for instance, concreting structural elements. Later on can be left and integrated with any home automation system for active structural and environmental monitoring.
 
@@ -55,6 +55,7 @@ ________________________________________________________________________________
 The enclosure for this PCB can be bought online by searching for [Legrand Plexo](https://www.legrand.com/ecatalogue/RESIDENTIAL-BUILDINGS-AND-HOTEL-EQUIPMENT/weatherproof-wiring-accessories-and-other-installation-equipment:5/weatherproof-wiring-accessories-and-boxes:1/plexo-boxes-ip-55-ik-07-with-direct-entry-membrane-glands-650-c:12/square-boxes:2/65-x-) .
 
 ![](https://github.com/aeonSolutions/AeonLabs-LDAD-for-Legrand-Plexo/blob/main/designs/enclosure.jpg)
+![](https://github.com/aeonSolutions/AeonLabs-LDAD-for-Legrand-Plexo/blob/main/designs/pcb.jpg)
 
 ## Firmware Download 
 one can use the PCB in the repository [AeonLabs-MCU-Burner-USB-to-UART-TTL](https://github.com/aeonSolutions/AeonLabs-MCU-Burner-USB-to-UART-TTL) to program the ESP32 WROOM32 MCU on this PCB.
