@@ -12,6 +12,11 @@ Simple and compatible with existing tools and technologies. Can't get better tha
 ![](https://views.whatilearened.today/views/github/aeonSolutions/AeonLabs_LDAD_for_Legrand_Plexo.svg)
 ![](https://img.shields.io/github/downloads/aeonSolutions/AeonLabs-LDAD-for-Legrand-Plexo/total?style=for-the-badge)
 
+### Status
+![](https://github.com/aeonSolutions/AeonLabs-LDAD-for-Legrand-Plexo/blob/main/designs/working_yellow.png)  Waiting for first batch from factory to be tested.
+
+If you already tested this PCB send me a message. Thank you
+
 ## Revisions
 - revision 1.1
    - added 220V AC Fuse 
